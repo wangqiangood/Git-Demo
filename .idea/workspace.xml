@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65a08575-ce3f-41c9-b78f-0a0606a23559" name="Changes" comment="尝试第一次更改">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="65a08575-ce3f-41c9-b78f-0a0606a23559" name="Changes" comment="尝试第二次更改" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,6 +102,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="尝试第一次更改" />
-    <option name="LAST_COMMIT_MESSAGE" value="尝试第一次更改" />
+    <MESSAGE value="尝试第二次更改" />
+    <option name="LAST_COMMIT_MESSAGE" value="尝试第二次更改" />
   </component>
 </project>
