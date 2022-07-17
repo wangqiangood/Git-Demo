@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65a08575-ce3f-41c9-b78f-0a0606a23559" name="Changes" comment="尝试第二次更改" />
+    <list default="true" id="65a08575-ce3f-41c9-b78f-0a0606a23559" name="Changes" comment="尝试第三次更改" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +74,7 @@
       <workItem from="1658036444610" duration="66000" />
       <workItem from="1658036555296" duration="2344000" />
       <workItem from="1658039564275" duration="17000" />
-      <workItem from="1658047380688" duration="377000" />
+      <workItem from="1658047380688" duration="856000" />
     </task>
     <task id="LOCAL-00001" summary="尝试第一次更改">
       <created>1658038162935</created>
@@ -97,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658047675372</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="尝试第三次更改">
+      <created>1658047779793</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1658047779793</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +125,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="尝试第一次更改" />
     <MESSAGE value="尝试第二次更改" />
-    <option name="LAST_COMMIT_MESSAGE" value="尝试第二次更改" />
+    <MESSAGE value="尝试第三次更改" />
+    <option name="LAST_COMMIT_MESSAGE" value="尝试第三次更改" />
   </component>
 </project>
